@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity3d-Bootstrap.CSharp", "Unity3d-Bootstrap.CSharp.csproj", "{F1F5BCE2-3AC6-7D93-E53D-8979B006AF6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bootstrap.Interfaces", "..\Bootstrap.Interfaces\Bootstrap.Interfaces.csproj", "{3B19A37B-E95E-4496-AA8B-B7A9745D53C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bootstrap.Core", "..\Bootstrap.Core\Bootstrap.Core.csproj", "{8664F589-DEC7-46CD-9C95-D010DFBF753E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1F5BCE2-3AC6-7D93-E53D-8979B006AF6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1F5BCE2-3AC6-7D93-E53D-8979B006AF6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1F5BCE2-3AC6-7D93-E53D-8979B006AF6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1F5BCE2-3AC6-7D93-E53D-8979B006AF6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B19A37B-E95E-4496-AA8B-B7A9745D53C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B19A37B-E95E-4496-AA8B-B7A9745D53C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B19A37B-E95E-4496-AA8B-B7A9745D53C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B19A37B-E95E-4496-AA8B-B7A9745D53C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8664F589-DEC7-46CD-9C95-D010DFBF753E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8664F589-DEC7-46CD-9C95-D010DFBF753E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8664F589-DEC7-46CD-9C95-D010DFBF753E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8664F589-DEC7-46CD-9C95-D010DFBF753E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

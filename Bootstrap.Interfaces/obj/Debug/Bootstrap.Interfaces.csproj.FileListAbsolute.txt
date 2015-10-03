@@ -1,0 +1,7 @@
+C:\work\Unity3d-Bootstrap\Assets\Plugins\Bootstrap.Interfaces.dll
+C:\work\Unity3d-Bootstrap\Assets\Plugins\Bootstrap.Interfaces.pdb
+C:\work\Unity3d-Bootstrap\Bootstrap.Interfaces\obj\Debug\Bootstrap.Interfaces.csprojResolveAssemblyReference.cache
+C:\work\Unity3d-Bootstrap\Bootstrap.Interfaces\obj\Debug\Bootstrap.Interfaces.dll
+C:\work\Unity3d-Bootstrap\Bootstrap.Interfaces\obj\Debug\Bootstrap.Interfaces.pdb
+C:\work\Unity3d-Bootstrap\Unity3d-Bootstrap\Assets\Plugins\Bootstrap.Interfaces.dll
+C:\work\Unity3d-Bootstrap\Unity3d-Bootstrap\Assets\Plugins\Bootstrap.Interfaces.pdb

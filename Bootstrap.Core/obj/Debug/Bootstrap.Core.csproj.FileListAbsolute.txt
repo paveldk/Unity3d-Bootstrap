@@ -1,0 +1,10 @@
+C:\work\Unity3d-Bootstrap\Unity3d-Bootstrap\Unity3d-Bootstrap\Assets\Plugins\Bootstrap.Core.dll
+C:\work\Unity3d-Bootstrap\Unity3d-Bootstrap\Unity3d-Bootstrap\Assets\Plugins\Bootstrap.Core.pdb
+C:\work\Unity3d-Bootstrap\Unity3d-Bootstrap\Bootstrap.Core\obj\Debug\Bootstrap.Core.csprojResolveAssemblyReference.cache
+C:\work\Unity3d-Bootstrap\Unity3d-Bootstrap\Bootstrap.Core\obj\Debug\Bootstrap.Core.dll
+C:\work\Unity3d-Bootstrap\Unity3d-Bootstrap\Bootstrap.Core\obj\Debug\Bootstrap.Core.pdb
+C:\work\Unity3d-Bootstrap\Unity3d-Bootstrap\Assets\Plugins\Bootstrap.Core.dll
+C:\work\Unity3d-Bootstrap\Unity3d-Bootstrap\Assets\Plugins\Bootstrap.Core.pdb
+C:\work\Unity3d-Bootstrap\Bootstrap.Core\obj\Debug\Bootstrap.Core.csprojResolveAssemblyReference.cache
+C:\work\Unity3d-Bootstrap\Bootstrap.Core\obj\Debug\Bootstrap.Core.dll
+C:\work\Unity3d-Bootstrap\Bootstrap.Core\obj\Debug\Bootstrap.Core.pdb
