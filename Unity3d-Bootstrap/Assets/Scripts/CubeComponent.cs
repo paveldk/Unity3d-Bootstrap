@@ -11,7 +11,8 @@ public class CubeComponent : MonoBehaviour {
     {
         this.Inject();
         this.MyService.SomethingHappened += this.OnEventHappened;
-    }
+        this.MyService.SomethingHappened += this.OnSameEventHappened;
+	}
 
     public void Update()
     {
@@ -22,4 +23,9 @@ public class CubeComponent : MonoBehaviour {
     {
         Debug.Log("Something happened - coming from event ");
     }
+
+	private void OnSameEventHappened(object sender, EventArgs e)
+	{
+		Debug.Log("Something happened from second event");
+	}
 }
